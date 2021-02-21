@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Boxing
 
+<img align="right" alt="GIF" src="https://github.com/surendra152/abhishe/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ![Mascot](https://learncodeonline.in/mascot.png "CODER")
 
 ### Connect with me:
