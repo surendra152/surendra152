@@ -7,8 +7,7 @@
 ## I'm a Student, Learner and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a Full-time opportunity
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Boxing
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
